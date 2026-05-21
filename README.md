@@ -62,6 +62,7 @@ Go to the settings, search for a "cursors" menu in Appearance, click **Obtain ne
 ### Manual install (recommended)
 
 If you do not want to use the online library, you can download the folders containing the sets you want and add them in the _.icons_ folder in your Home directory (create it if you can't find it).
+To use one of the extra cursors, move the files in the corresponding _extras_ subfolder to the folder of the base set you're using (e.g. `$HOME/.icons/Posy_Cursor_Black/cursors`) and overwrite the files that already exist. (The _person_ and _pin_ cursors do not have a direct equivalent and must be named manually.)
 Then, if you are on KDE, go to the Cursors menu in the Appearance settings and you should see the themes you imported.
 
 The cursor sets are available in many sizes: 32, 48, 64, 96 and 128 pixels.
